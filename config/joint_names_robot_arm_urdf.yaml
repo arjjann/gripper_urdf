@@ -1,0 +1,1 @@
+controller_joint_names: ['', 'rotating_joint', 'shoulder_joint', 'arms_joint', 'leftlink_joint', 'rightlink_joint', 'rightgear_joint', 'rightfinger_joint', 'leftgear_joint', 'leftfinger_joint', ]
